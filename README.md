@@ -17,7 +17,7 @@
 
 PhD student in Computer Science at **KFUPM**, building intelligent AI systems.
 
-**Expertise**: Agentic AI • RAG • OCR • Computer Vision
+**Expertise**: Agentic AI • RAG • LLM • OCR • Computer Vision
 
 ---
 
